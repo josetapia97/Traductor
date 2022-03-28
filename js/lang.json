@@ -1,0 +1,34 @@
+{
+  "es":{
+    "prueba1":"Esto es una prueba",
+    "prueba2":"Este texto esta en español",
+    "prueba3":"Nombre",
+    "prueba4":"Apellidos",
+    "prueba5":"País",
+    "prueba6":"Traducir tabla también"
+  },
+  "en":{
+    "prueba1":"This is a test",
+    "prueba2":"This text is in nglish",
+    "prueba3":"Name",
+    "prueba4":"Surnames",
+    "prueba5":"Country",
+    "prueba6":"Translate table too"
+  },
+  "fr":{
+    "prueba1":"C'est un test",
+    "prueba2":"Ce texte est en français",
+    "prueba3":"Nom",
+    "prueba4":"Noms de famille",
+    "prueba5":"Pays",
+    "prueba6":"Traduire le tableau aussi"
+  },
+  "al":{
+    "prueba1":"Dies ist ein Test",
+    "prueba2":"Dieser Text ist auf Deutsch",
+    "prueba3":"Name",
+    "prueba4":"Nachnamen",
+    "prueba5":"Land",
+    "prueba6":"Tabelle auch übersetzen"
+  }
+}
